@@ -1,0 +1,38 @@
+{"q": "BOSS 助手每天最多能发多少个招呼？", "answerable": true, "gold_docs": ["boss-assistant-manual.md"], "keywords": ["25"]}
+{"q": "BOSS 助手的打招呼语在哪里修改？", "answerable": true, "gold_docs": ["boss-assistant-manual.md"], "keywords": ["打招呼语", "设置"]}
+{"q": "自动打招呼时，两个岗位之间大概间隔多久？", "answerable": true, "gold_docs": ["boss-assistant-manual.md"], "keywords": ["60", "120"]}
+{"q": "BOSS 助手筛选岗位大概要跑多长时间？", "answerable": true, "gold_docs": ["boss-assistant-manual.md"], "keywords": ["分钟"]}
+{"q": "鸣潮桌宠的宝箱多久攒一个？", "answerable": true, "gold_docs": ["wuwa-pet-manual.md"], "keywords": ["30 分钟"]}
+{"q": "开一个宝箱要消耗多少字符数？", "answerable": true, "gold_docs": ["wuwa-pet-manual.md"], "keywords": ["1000"]}
+{"q": "为什么用程序模拟按键不能增加桌宠的字符数？", "answerable": true, "gold_docs": ["wuwa-pet-manual.md"], "keywords": ["钩子", "过滤"]}
+{"q": "桌宠自动开宝箱需要打开哪个调试端口？", "answerable": true, "gold_docs": ["wuwa-pet-manual.md"], "keywords": ["9222"]}
+{"q": "QQ 机器人的 OneBot WebSocket 端口是多少？", "answerable": true, "gold_docs": ["qq-bot-manual.md"], "keywords": ["3001"]}
+{"q": "NapCat 的网页管理台地址是什么？", "answerable": true, "gold_docs": ["qq-bot-manual.md"], "keywords": ["6099"]}
+{"q": "QQ 机器人用的小号账号是多少？", "answerable": true, "gold_docs": ["qq-bot-manual.md"], "keywords": ["1561846322"]}
+{"q": "怎样做到 QQ 登录一次、以后不用扫码？", "answerable": true, "gold_docs": ["qq-bot-manual.md"], "keywords": ["自动登录"]}
+{"q": "大肥鱼表情包插件自带多少张表情？", "answerable": true, "gold_docs": ["nekowhale-stickers-readme.md"], "keywords": ["322"]}
+{"q": "表情包插件自带的本地模板都有哪些？", "answerable": true, "gold_docs": ["nekowhale-stickers-readme.md"], "keywords": ["举牌", "葱卷"]}
+{"q": "AI 应用开发 12 周计划里，每周大概投入多少小时？", "answerable": true, "gold_docs": ["plan-ai-12w.md"], "keywords": ["4–6", "390"]}
+{"q": "AI 应用开发计划中，RAG 上篇安排在第几周？", "answerable": true, "gold_docs": ["plan-ai-12w.md"], "keywords": ["3", "4"]}
+{"q": "数据开发 12 周计划里最关键的是哪个阶段？", "answerable": true, "gold_docs": ["plan-data-12w.md"], "keywords": ["SQL"]}
+{"q": "电商运营入行指南建议 0 经验的人走哪几条路？", "answerable": true, "gold_docs": ["ecommerce-guide.md"], "keywords": ["助理", "开店", "代运营"]}
+{"q": "深圳的电商运营助理薪资大概是多少？", "answerable": true, "gold_docs": ["ecommerce-guide.md"], "keywords": ["5", "9"]}
+{"q": "简历诊断里说期望薪资写「面议」有什么问题？", "answerable": true, "gold_docs": ["resume-review-notes.md"], "keywords": ["面议"]}
+{"q": "简历诊断建议把项目代码放在哪里？", "answerable": true, "gold_docs": ["resume-review-notes.md"], "keywords": ["GitHub"]}
+{"q": "陈卓的 GPA 是多少？", "answerable": true, "gold_docs": ["resume-ai.md", "resume-ai.docx", "resume-original.pdf"], "keywords": ["3.66"]}
+{"q": "陈卓毕业于哪所学校？", "answerable": true, "gold_docs": ["resume-ai.md", "resume-ai.docx", "resume-original.pdf"], "keywords": ["湖北师范大学文理学院"]}
+{"q": "这份简历求职的方向是什么？", "answerable": true, "gold_docs": ["resume-ai.md", "resume-ai.docx"], "keywords": ["AI 应用开发"]}
+{"q": "bili-whale 插件的依赖体检会检查哪些东西？", "answerable": true, "gold_docs": ["bili-whale-readme.md"], "keywords": ["ffmpeg"]}
+{"q": "dsh-qq-onebot 插件怎么安装？", "answerable": true, "gold_docs": ["dsh-qq-onebot-readme.md"], "keywords": ["plugin", "add"]}
+{"q": "自动开箱程序的日志文件叫什么？", "answerable": true, "gold_docs": ["wuwa-bot-readme.md", "wuwa-tutorial.md"], "keywords": ["wuwa-bot.log"]}
+{"q": "怎么查看桌宠的字符余额和宝箱倒计时？", "answerable": true, "gold_docs": ["wuwa-pet-manual.md", "wuwa-tutorial.md"], "keywords": ["查看宝箱状态"]}
+{"q": "B 站大肥鱼的人设文件是哪一个？", "answerable": true, "gold_docs": ["bili-whale-readme.md"], "keywords": ["persona.md"]}
+{"q": "简历的自我评价容易出现什么问题？", "answerable": true, "gold_docs": ["resume-review-notes.md"], "keywords": ["自我评价"]}
+{"q": "公司给员工多少天年假？", "answerable": false, "gold_docs": [], "keywords": []}
+{"q": "BOSS 直聘的创始人身高是多少？", "answerable": false, "gold_docs": [], "keywords": []}
+{"q": "深圳地铁 14 号线末班车是几点？", "answerable": false, "gold_docs": [], "keywords": []}
+{"q": "这个知识库一共支持多少种语言？", "answerable": false, "gold_docs": [], "keywords": []}
+{"q": "陈卓的身份证号码是多少？", "answerable": false, "gold_docs": [], "keywords": []}
+{"q": "鸣潮桌宠的开发公司股票代码是什么？", "answerable": false, "gold_docs": [], "keywords": []}
+{"q": "大肥鱼插件作者的手机号是多少？", "answerable": false, "gold_docs": [], "keywords": []}
+{"q": "2027 年的春节是几月几号？", "answerable": false, "gold_docs": [], "keywords": []}
