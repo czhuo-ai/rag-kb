@@ -1,0 +1,18 @@
+{
+  "questions": 38,
+  "answerable": 30,
+  "recall_at_k": 0.9667,
+  "mrr_at_10": 0.8444,
+  "keyword_coverage": 0.6889,
+  "refusal_accuracy": 1.0,
+  "refusal_cases": 8,
+  "latency_p50_ms": 1984,
+  "latency_p95_ms": 3868,
+  "tokens": {
+    "prompt": 58443,
+    "completion": 1149
+  },
+  "top_k": 5,
+  "rerank": "rrf",
+  "strategy": "fixed"
+}
