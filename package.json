@@ -1,0 +1,9 @@
+{
+  "name": "rag-kb-pdf-parser",
+  "private": true,
+  "type": "module",
+  "description": "PDF 解析用的 pdf-parse 依赖（Python 侧通过 subprocess 调用）",
+  "dependencies": {
+    "pdf-parse": "^2.4.5"
+  }
+}
