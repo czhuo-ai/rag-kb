@@ -1,0 +1,24 @@
+# 数据与缓存（可重新生成）
+data/cache/
+data/index*.sqlite
+data/tmp/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+.npm-cache/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 本机用的双击启动器与私有 registry 配置（含绝对路径，不入库）
+*.bat
+.npmrc
